@@ -1,0 +1,26 @@
+# Clinairo
+
+> Recepción inteligente por WhatsApp para clínicas en México. Clinairo responde,
+> califica, agenda, confirma, recuerda, reagenda y recupera citas las 24 horas,
+> usando la infraestructura oficial de WhatsApp Business de Meta.
+
+## Qué es
+Clinairo es una recepción con IA que opera sobre el WhatsApp de la clínica. La cuenta
+de WhatsApp Business queda a nombre de la clínica. Se integra con Google Calendar.
+
+## Qué no hace
+No emite diagnósticos médicos, no prescribe y no sustituye el criterio del personal
+clínico. Escala a una persona cuando la conversación lo requiere.
+
+## Datos
+Los datos de pacientes se tratan conforme a la Ley Federal de Protección de Datos
+Personales en Posesión de los Particulares (LFPDPPP), México.
+
+## Contacto
+WhatsApp: +52 782 332 8468
+Correo: contact@clinairo.com
+Oficina: C. Once 104, Benito Juárez, 93310 Poza Rica de Hidalgo, Veracruz, México
+Entidad: Clinairo Automation Inc.
+
+## Páginas
+- https://clinairo.mx/ — sitio principal
